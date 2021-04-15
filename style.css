@@ -23,7 +23,7 @@ html, body {
   margin: 0;
   overflow: hidden;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 12px;
   background-color: #000;
   color: #fff;
 }
@@ -342,7 +342,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .link-hotspot {
   width: 60px;
-  height: 60px;
+  height: 40px;
   margin-left: -30px;
   margin-top: -30px;
   opacity: 0.9;
@@ -457,7 +457,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   border-radius: 20px;
-  background-color: rgb(103,115,131);
+  background-color: rgb(37,170,225);
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
                       border-radius 0.3s ease-in-out 0.5s;
